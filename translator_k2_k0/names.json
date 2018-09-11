@@ -1,0 +1,27 @@
+[
+	{ "mac": "63e327",
+	  "nazwa": "akwarium",
+	  "porty":
+		[{"nazwa": "filtr_akwarium",
+		  "numer": "0001"},
+		 {"nazwa": "swiatlo_akwarium",
+		  "numer": "0002"}
+		]
+	},
+	{ "mac": "24h934",
+	  "nazwa": "salon",
+	  "porty":
+		[{"nazwa": "klimatyzacja_salon",
+		  "numer": "0001"}
+		]
+	},
+	{ "mac": "25k923",
+	  "nazwa": "lazienka",
+	  "porty":
+		[{"nazwa": "swiatlo_lazienka",
+		  "numer": "0001"},
+		 {"nazwa": "swiatlo_lustro",
+		  "numer": "0002"}
+		]
+	}
+]

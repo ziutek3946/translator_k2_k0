@@ -1,0 +1,18 @@
+[
+	{ "typ": 1,
+	  "rozkazy": 
+		[{"nazwa": "wlacz",
+		 "kod": "03/01"},
+		 {"nazwa": "wylacz",
+		 "kod": "03/00"}
+		]
+	},
+	{ "typ": 2,
+	  "rozkazy": 
+		[{"nazwa": "chlodz",
+		 "kod": "03/01"},
+		 {"nazwa": "grzej",
+		 "kod": "03/00"}
+		]
+	}
+]
